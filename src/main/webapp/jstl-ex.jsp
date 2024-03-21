@@ -35,7 +35,7 @@
 
     <%-- 조건문 --%>
 
-    <c:set var="age" value="30" />
+    <c:set var="age" value="18" />
 
     <%--
     <c:if test="${age > 19}">
@@ -63,12 +63,4 @@
 
 </body>
 </html>
-
-
-
-
-
-
-
-
 
